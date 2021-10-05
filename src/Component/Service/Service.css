@@ -1,0 +1,9 @@
+.course-box{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.service-text{
+    text-align: center;
+    margin: 20px;
+}

@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Introduction to Programming",
+        "id": 111,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/C_Hello_World_Program.png",
+        "description": "Computer programming is the process of designing and building an executable computer program to accomplish a specific computing result or to perform a specific task.",
+        "tutor": "Joey Bailey",
+        "price": 5000,
+        "duration": 5,
+        "enrolled": 50,
+        "rating": 4.5
+    },
+    {
+        "name": "Learn Advanced Javascript",
+        "id": 112,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg",
+        "description": "JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn. ",
+        "tutor": "Rachel Gomez",
+        "price": 4500,
+        "duration": 4,
+        "enrolled": 55,
+        "rating": 4.9
+    },
+    {
+        "name": "Introduction to Computer Science",
+        "id": 113,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Computer-science-education.jpg",
+        "description": "Computer science is the study of computers and computing as well as their theoretical and practical applications.",
+        "tutor": "Emma Stone",
+        "price": 6200,
+        "duration": 8,
+        "enrolled": 75,
+        "rating": 4
+    },
+    {
+        "name": "Machine Learning",
+        "id": 114,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png",
+        "description": "Machine learning is the study of computer algorithms that can improve automatically through experience and by the use of data. It is seen as a part of artificial intelligence. ",
+        "tutor": "M Smith",
+        "price": 5500,
+        "duration": 6,
+        "enrolled": 61,
+        "rating": 45
+    },
+    {
+        "name": "Artificial Intelligence Course",
+        "id": 115,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/What-is-artificial-intelligence-_What_is_artificial_intelligence.jpg",
+        "description": "Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by humans or animals.",
+        "tutor": "Jason Roy",
+        "price": 5900,
+        "duration": 8,
+        "enrolled": 67,
+        "rating": 5
+    },
+    {
+        "name": "Learn Cryptography",
+        "id": 116,
+        "img": "https://iclmg.ca/wp-content/uploads/2017/07/o-ENCRYPTION-facebook.jpg",
+        "description": "Cryptography is the study of secure communications techniques that allow only the sender and intended recipient of a message to view its contents.",
+        "tutor": "Alex Hales",
+        "price": 4900,
+        "duration": 5,
+        "enrolled": 55,
+        "rating": 3.8
+    },
+    {
+        "name": "Game Development",
+        "id": 117,
+        "img": "https://blog.eduonix.com/wp-content/uploads/2021/05/Game-developer-gaming-game-designing-game-development-scaled-e1620913877686.jpg",
+        "description": "Game Development is the art of creating games and describes the design, development and release of a game.",
+        "tutor": "Andrew Flintoff",
+        "price": 6400,
+        "duration": 7,
+        "enrolled": 68,
+        "rating": 4
+    },
+    {
+        "name": "Web Programming",
+        "id": 118,
+        "img": "https://tutoraj.com/wp-content/uploads/2021/01/Web-dev.jpeg",
+        "description": "Web development is the work involved in developing a Web site for the Internet or an intranet. ",
+        "tutor": "Alexa Johnson",
+        "price": 5500,
+        "duration": 6,
+        "enrolled": 80,
+        "rating": 5
+    },
+    {
+        "name": "Learn Advanced Python",
+        "id": 119,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+        "description": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation.",
+        "tutor": "Johny Starc",
+        "price": 6700,
+        "duration": 7,
+        "enrolled": 80,
+        "rating": 4.9
+    },
+    {
+        "name": "Competitive Programming",
+        "id": 120,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/C_Hello_World_Program.png",
+        "description": "Competitive programming is a mind sport usually held over the Internet or a local network, involving participants trying to program according to provided specifications.",
+        "tutor": "Sam Morgan",
+        "price": 5400,
+        "duration": 5,
+        "enrolled": 56,
+        "rating": 4.5
+    }
+]

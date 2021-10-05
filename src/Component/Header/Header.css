@@ -1,0 +1,11 @@
+.text{
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+    padding: 5px;
+}
+
+.text:hover{
+    background-color: lightgray;
+    color: black;
+}

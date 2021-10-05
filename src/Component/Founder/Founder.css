@@ -1,0 +1,9 @@
+.founder{
+    display: flex;
+    margin: 50px;
+    padding: 50px;
+}
+
+.founder-img{
+    margin-right: 30px;
+}

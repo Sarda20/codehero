@@ -1,0 +1,17 @@
+.course-card:hover{
+    transform: scale(1.1, 1.1);
+    transition-duration: 1s;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.btn:hover{
+    color: white;
+}
+.icon-color{
+    color: goldenrod;
+}

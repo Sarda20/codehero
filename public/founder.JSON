@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Alex Hales",
+        "img": "https://randomuser.me/api/portraits/men/67.jpg",
+        "about": "Alex Hales is the founder and CEO of CodeHero. His main vision is to take online education globally making codehero the best platform to grow new talent."
+    },
+    {
+        "name": "Andrew Fin",
+        "img": "https://randomuser.me/api/portraits/men/75.jpg",
+        "about": "Andrew Fin is Founder of DeepLearning.AI, General Partner at AI Fund, Chairman and Co-Founder of CodeHero. As a pioneer both in machine learning and online education"
+    }
+]

@@ -1,0 +1,53 @@
+.img-holder{
+    height: 500px;
+}
+
+.img-text{
+    font-weight: bolder; 
+    font-size: 60px; 
+}
+
+.welcome-text h1{
+    text-align: center;
+    margin-top:100px;
+    font-weight: bold;
+}
+
+.codehero-text{
+    color: darkblue;
+}
+
+.welcome-text p{
+    text-align: center;
+    padding: 2px 200px;
+}
+
+.course-container{
+    margin-top: 200px;
+    background-color: lightcyan;
+    padding: 1px;
+    /* background-image: url('../../images/head3.jpg'); */
+}
+
+.course-container h1{
+    text-align: center;
+    margin-top:60px;
+    font-weight: bold;
+}
+.course-container p{
+    text-align: center;
+    font-style:italic ;
+}
+
+.view-btn{
+    background-color: blue;
+    border: 2px solid black;
+    color: white;
+    border-radius: 5px;
+}
+
+.view-btn:hover{
+    transform: scale(1.1, 1.1);
+    background-color: darkblue;
+    color: black;
+}
